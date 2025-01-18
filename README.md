@@ -3,5 +3,6 @@
 <h3> 👨🏻‍💻 A little about me: </h3>
 
 - 🔭 &nbsp; I currently attend UC Davis majoring in Computer Science.
-- 🎓 &nbsp; Studying Computer Science, and have taken various Electrical Engineering Courses.
+- 🎓 &nbsp; I've taken various Electrical Engineering courses alongside my programming endeavors.
 - 🌱 &nbsp; Interested in Networking, and Systems-level development.
+- 😁 &nbsp; Shoot me an email if you would like to chat -> ahnawab@ucdavis.edu
