@@ -6,3 +6,5 @@
 - 🎓 &nbsp; I've taken various Electrical Engineering courses alongside my programming endeavors.
 - 🌱 &nbsp; Interested in Networking, and Systems-level development.
 - 😁 &nbsp; Shoot me an email if you would like to chat -> ahnawab@ucdavis.edu
+
+Currently taking ECS 158 (Programming on Parallel Architectures) at UC Davis [Go, C++ / OpenMP]
