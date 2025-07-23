@@ -10,5 +10,5 @@ I’m a software engineer with a background in computer science / electrical eng
 - Clean, testable code and collaborative engineering culture
 
 - Email: [ahnawabwork@gmail.com](mailto:ahnawabwork@gmail.com)  
-- LinkedIn: [linkedin.com/in/abdul-hanan-nawab-44179919a](https://linkedin.com/in/abdul-hanan-nawab-44179919a)  
+- LinkedIn: [linkedin.com/in/abdul-hanan-nawab-44179919a](https://www.linkedin.com/in/abdul-nawab-44179919a/) 
 - GitHub: [@abdulnawab916](https://github.com/abdulnawab916) 
