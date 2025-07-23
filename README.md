@@ -1,4 +1,4 @@
-# 👋 Hey there, I’m Abdul Nawab
+# Hey there, I’m Abdul Nawab
 
 I’m a software engineer with a background in computer science / electrical engineering and a passion for building systems that are fast, clean, and reliable. I enjoy working across the stack, from backend infrastructure and APIs to occasional UI polish, and I love solving real problems with code.
 
