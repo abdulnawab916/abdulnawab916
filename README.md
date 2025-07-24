@@ -6,6 +6,7 @@ I have a passion for building systems that are fast, clean, and reliable. I enjo
 ### Some personal interests:
 - Machine learning
 - Systems programming & distributed networking
+- Computational Theory && Abstract Mathematics
  
 ### Contact information:
 - Email: [ahnawabwork@gmail.com](mailto:ahnawabwork@gmail.com)  
