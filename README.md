@@ -1,6 +1,6 @@
 # Hey, I’m Abdul Nawab!
 
-I’m a software engineer with a background in computer science & electrical engineering.
+I’m a Software Engineer with a background in Computer Science as well as Electrical Engineering.
 I have a passion for building systems that are fast, clean, and reliable. I enjoy working at the systems-level of programming, yet still like to write frontend code from time to time. All in all, I like helping others with programming.
 
 ### Some personal interests:
