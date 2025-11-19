@@ -1,10 +1,11 @@
-# Hey, I’m Abdul Nawab!
+# Hey, I’m Abdul Nawab.
 
-I have a passion for building systems that are fast, clean, and reliable. I enjoy working at the systems-level of programming, yet still like to write frontend code from time to time. All in all, I like helping others with programming.
+I have a passion for building systems that are fast, clean, and reliable. I enjoy working at the systems-level of programming, yet still like to write frontend code from time to time. 
+All in all, I like helping others through the art of programming.
 
-I currently work as a Software Engineer / Software Consultant for INOX, by Unison Hardware based in Sacramento.
+Currently, I work as a Software Engineer / Consultant for INOX, by Unison Hardware based in Sacramento.
 
-### Some personal interests:
+### Personal interests:
 - Systems-level Programming (C, C++, Rust)
 - Computer Networks
 - Computational Theory
