@@ -1,14 +1,13 @@
 # Hey, I’m Abdul Nawab.
 
-I enjoy working at the systems-level of programming, yet, I still like to write frontend code from time to time. 
-
-All in all, I like helping others through the art of programming.
+I enjoy working at the systems-level of programming.
 
 Currently, I work as a Software Engineer & Consultant for INOX, by Unison Hardware, which is based in Sacramento, CA.
+I also contribute to open-source written in Rust, such as `broot`!
 
 ### Personal interests:
-- Systems-level Programming (C, C++, Rust)
-- Computer Networks, both theory and application
+- Systems-level Programming
+- Computer Networks
 - Computational Theory
 
 - [ahnawabwork@gmail.com](mailto:ahnawabwork@gmail.com)  
