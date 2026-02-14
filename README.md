@@ -1,14 +1,41 @@
-# Hey, I’m Abdul Nawab.
+# Hey, I’m Abdul!
 
-I enjoy working at the systems-level of programming.
+```bash
+          _____                    _____                    _____          
+         /\    \                  /\    \                  /\    \         
+        /::\    \                /::\____\                /::\____\        
+       /::::\    \              /:::/    /               /::::|   |        
+      /::::::\    \            /:::/    /               /:::::|   |        
+     /:::/\:::\    \          /:::/    /               /::::::|   |        
+    /:::/__\:::\    \        /:::/____/               /:::/|::|   |        
+   /::::\   \:::\    \      /::::\    \              /:::/ |::|   |        
+  /::::::\   \:::\    \    /::::::\    \   _____    /:::/  |::|   | _____  
+ /:::/\:::\   \:::\    \  /:::/\:::\    \ /\    \  /:::/   |::|   |/\    \ 
+/:::/  \:::\   \:::\____\/:::/  \:::\    /::\____\/:: /    |::|   /::\____\
+\::/    \:::\  /:::/    /\::/    \:::\  /:::/    /\::/    /|::|  /:::/    /
+ \/____/ \:::\/:::/    /  \/____/ \:::\/:::/    /  \/____/ |::| /:::/    / 
+          \::::::/    /            \::::::/    /           |::|/:::/    /  
+           \::::/    /              \::::/    /            |::::::/    /   
+           /:::/    /               /:::/    /             |:::::/    /    
+          /:::/    /               /:::/    /              |::::/    /     
+         /:::/    /               /:::/    /               /:::/    /      
+        /:::/    /               /:::/    /               /:::/    /       
+        \::/    /                \::/    /                \::/    /        
+         \/____/                  \/____/                  \/____/         
+                                                                           
+```
+*AHN == Abdul Hanan Nawab*
 
-Currently, I work as a Software Engineer & Consultant for INOX, by Unison Hardware, which is based in Sacramento, CA.
-I also contribute to open-source written in Rust, such as `broot`!
+I enjoy working at the systems-level of programming. 
 
-### Personal interests:
-- Systems-level Programming
+I currently work as a Software Developer and Software Consultant for INOX, by Unison Architectural Hardware, based in Sacramento, CA.
+
+### Interests:
+- Systems
 - Computer Networks
 - Computational Theory
+- Artificial Intelligence
+- Machine Learning
 
-- [ahnawabwork@gmail.com](mailto:ahnawabwork@gmail.com)  
-- [linkedin](www.linkedin.com/in/abdul-hanan-nawab-44179919a/?skipRedirect=true)
+[My email address](mailto:ahnawabwork@gmail.com)  
+[My linkedin](https://www.linkedin.com/in/abdul-hanan-nawab-44179919a/)  
