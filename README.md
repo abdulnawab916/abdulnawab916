@@ -11,4 +11,4 @@ I also contribute to open-source written in Rust, such as `broot`!
 - Computational Theory
 
 - [ahnawabwork@gmail.com](mailto:ahnawabwork@gmail.com)  
-- [linkedin.com/in/abdul-hanan-nawab-44179919a](https://www.linkedin.com/in/abdul-nawab-44179919a/)
+- [linkedin](www.linkedin.com/in/abdul-hanan-nawab-44179919a/?skipRedirect=true)
